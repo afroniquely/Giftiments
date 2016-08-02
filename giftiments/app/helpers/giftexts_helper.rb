@@ -1,0 +1,2 @@
+module GiftextsHelper
+end
