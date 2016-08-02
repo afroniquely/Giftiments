@@ -20,8 +20,7 @@ Allows the user to create quick and simple sentiments that can be translated int
 ## Mockup of the Web App:
 
 ![alt text][logo]
-[logo]: http://content.freshmedleydesigns.com/media/images/AppWireframe.jpg "Giftiments Web App Wireframe"
-(rough sketch version)
+[logo]: http://content.freshmedleydesigns.com/media/images/GiftimentsWireframe.jpg "Giftiments Web App Wireframe"
 
 ## Technologies Used:
 * Javascript
